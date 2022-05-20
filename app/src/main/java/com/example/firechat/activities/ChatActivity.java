@@ -41,8 +41,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ChatActivity extends AppCompatActivity {
-    static final String BASE_URL = "https://firechat-2ddad-default-rtdb.firebaseio.com";
-    static final String STORAGE_URL = "https://firechat-2ddad-default-rtdb.firebaseio.com";
+    static final String BASE_URL = "https://firechat-************.firebaseio.com";
+    static final String STORAGE_URL = "https://firechat-************.firebaseio.com";
     private static final int RC_IMAGE_PICKER = 124;
     private ListView messageListView;
     private FireMessageAdapter adapter;
