@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Studio Projects/FireChat/app/src/main/res/drawable/avatar_circle_background.xml" value="0.1685" />
+        <entry key="..\:/Android Studio Projects/FireChat/app/src/main/res/drawable/gradient.xml" value="0.1855" />
+        <entry key="..\:/Android Studio Projects/FireChat/app/src/main/res/drawable/send_a_photo_24.xml" value="0.119" />
+        <entry key="..\:/Android Studio Projects/FireChat/app/src/main/res/drawable/user_image.xml" value="0.1685" />
+        <entry key="..\:/Android Studio Projects/FireChat/app/src/main/res/layout/activity_chat.xml" value="0.2006340579710145" />
+        <entry key="..\:/Android Studio Projects/FireChat/app/src/main/res/layout/activity_main.xml" value="0.24635416666666668" />
+        <entry key="..\:/Android Studio Projects/FireChat/app/src/main/res/layout/activity_sing_in.xml" value="0.264" />
+        <entry key="..\:/Android Studio Projects/FireChat/app/src/main/res/layout/activity_user_list.xml" value="0.2006340579710145" />
+        <entry key="..\:/Android Studio Projects/FireChat/app/src/main/res/layout/gradient.xml" value="0.25" />
+        <entry key="..\:/Android Studio Projects/FireChat/app/src/main/res/layout/message_item.xml" value="0.24635416666666668" />
+        <entry key="..\:/Android Studio Projects/FireChat/app/src/main/res/layout/my_message_item.xml" value="0.25" />
+        <entry key="..\:/Android Studio Projects/FireChat/app/src/main/res/layout/user_item.xml" value="0.2006340579710145" />
+        <entry key="..\:/Android Studio Projects/FireChat/app/src/main/res/layout/your_message_item.xml" value="0.25" />
+        <entry key="..\:/Android Studio Projects/FireChat/app/src/main/res/menu/main_menu.xml" value="0.24947916666666667" />
+        <entry key="..\:/Android/FireChat/app/src/main/res/drawable/avatar_circle_background.xml" value="0.2175" />
+        <entry key="..\:/Android/FireChat/app/src/main/res/drawable/user_image.xml" value="0.2175" />
+        <entry key="..\:/Android/FireChat/app/src/main/res/layout/activity_user_list.xml" value="0.12158054711246201" />
+        <entry key="..\:/Android/FireChat/app/src/main/res/layout/message_item.xml" value="0.4" />
+        <entry key="..\:/Android/FireChat/app/src/main/res/layout/user_item.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK" />
+</project>
