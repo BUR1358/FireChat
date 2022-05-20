@@ -13,7 +13,7 @@
 
         <ImageView
             android:id="@+id/photoImageView"
-            android:layout_width="360dp"
+            android:layout_width="320dp"
             android:layout_height="wrap_content" />
 
         <TextView
